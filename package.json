@@ -1,10 +1,11 @@
 {
   "name": "@mclpio/dropdown-menu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Dropdown menu with onClick or onHover",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/MclPio/dropdown-menu/issues"
   },
-  "homepage": "https://github.com/MclPio/dropdown-menu#readme"
+  "homepage": "https://github.com/MclPio/dropdown-menu#readme",
+  "dependencies": {
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
 }
