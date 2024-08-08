@@ -1,6 +1,6 @@
 {
   "name": "@mclpio/dropdown-menu",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Dropdown menu with onClick or onHover",
   "main": "index.js",
   "scripts": {
