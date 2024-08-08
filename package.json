@@ -1,0 +1,19 @@
+{
+  "name": "@mclpio/dropdown-menu",
+  "version": "1.0.1",
+  "description": "Dropdown menu with onClick or onHover",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MclPio/dropdown-menu.git"
+  },
+  "author": "mclpio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MclPio/dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/MclPio/dropdown-menu#readme"
+}

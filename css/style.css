@@ -1,0 +1,32 @@
+.dropdown-menu {
+  display: none;
+  background-color: #f8fafc;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.visible {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.dropdown-item {
+  color: inherit;
+  text-decoration: none;
+  padding: 0.5rem;
+}
+
+.dropdown-item:hover {
+  background-color: #e2e8f0;
+}
+
+.dropdown-toggle {
+  background-color: #f8fafc;
+  border: 1px solid black;
+  padding: 0.5rem;
+}
+
+.dropdown-toggle:hover {
+  background-color: #e2e8f0;
+}
