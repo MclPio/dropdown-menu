@@ -14,3 +14,7 @@ insert this component in your page
     </div>
   </div>
 ```
+insert this into your index page
+```js
+import { DropDown } from "@mclpio/dropdown-menu/src/index";
+```
